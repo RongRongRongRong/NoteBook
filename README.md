@@ -7,7 +7,7 @@
 ##
 *[about Java](Java_Note/README.md)*
 
-*[about Jvm](Jvm_Note/README.md)*
+*[about Jvm](JVM_Note/README.md)*
 
 *[about MarkDown](MarkDownSyntax_Note/README.md)*
 
